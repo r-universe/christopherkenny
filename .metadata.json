@@ -1,0 +1,10 @@
+[
+  {
+    "package": "censable",
+    "oncran": true
+  },
+  {
+    "package": "geomander",
+    "oncran": true
+  }
+]
