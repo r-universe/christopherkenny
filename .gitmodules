@@ -8,6 +8,11 @@
 	url = https://github.com/christopherkenny/censable
 	shallow = true
 	registered = true
+[submodule "divseg"]
+	path = divseg
+	url = https://github.com/christopherkenny/divseg
+	shallow = true
+	registered = true
 [submodule "geomander"]
 	path = geomander
 	url = https://github.com/christopherkenny/geomander

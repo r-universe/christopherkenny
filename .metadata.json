@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "divseg",
+    "oncran": true
+  },
+  {
     "package": "geomander",
     "oncran": true
   }
