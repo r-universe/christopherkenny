@@ -1,5 +1,9 @@
 [
   {
+    "package": "geomander",
+    "oncran": true
+  },
+  {
     "package": "censable",
     "oncran": true
   },
@@ -8,7 +12,20 @@
     "oncran": true
   },
   {
-    "package": "geomander",
-    "oncran": true
+    "package": "ppmf"
+  },
+  {
+    "package": "cvap"
+  },
+  {
+    "package": "name"
+  },
+  {
+    "package": "acroname",
+    "oncran": false
+  },
+  {
+    "package": "styler",
+    "oncran": false
   }
 ]

@@ -1,8 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/christopherkenny/universe
 	shallow = true
 	branch = HEAD
+[submodule "geomander"]
+	path = geomander
+	url = https://github.com/christopherkenny/geomander
+	shallow = true
+	registered = true
 [submodule "censable"]
 	path = censable
 	url = https://github.com/christopherkenny/censable
@@ -13,8 +18,28 @@
 	url = https://github.com/christopherkenny/divseg
 	shallow = true
 	registered = true
-[submodule "geomander"]
-	path = geomander
-	url = https://github.com/christopherkenny/geomander
+[submodule "ppmf"]
+	path = ppmf
+	url = https://github.com/christopherkenny/ppmf
+	shallow = true
+	registered = true
+[submodule "cvap"]
+	path = cvap
+	url = https://github.com/christopherkenny/cvap
+	shallow = true
+	registered = true
+[submodule "name"]
+	path = name
+	url = https://github.com/christopherkenny/name
+	shallow = true
+	registered = true
+[submodule "acroname"]
+	path = acroname
+	url = https://github.com/christopherkenny/acroname
+	shallow = true
+	registered = true
+[submodule "styler"]
+	path = styler
+	url = https://github.com/christopherkenny/styler
 	shallow = true
 	registered = true
