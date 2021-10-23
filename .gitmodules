@@ -33,9 +33,9 @@
 	url = https://github.com/christopherkenny/name
 	shallow = true
 	registered = true
-[submodule "acroname"]
-	path = acroname
-	url = https://github.com/christopherkenny/acroname
+[submodule "acronames"]
+	path = acronames
+	url = https://github.com/christopherkenny/acronames
 	shallow = true
 	registered = true
 [submodule "styler"]

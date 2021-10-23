@@ -21,8 +21,7 @@
     "package": "name"
   },
   {
-    "package": "acroname",
-    "oncran": false
+    "package": "acronames"
   },
   {
     "package": "styler",
