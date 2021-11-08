@@ -15,7 +15,8 @@
     "package": "ppmf"
   },
   {
-    "package": "cvap"
+    "package": "cvap",
+    "oncran": false
   },
   {
     "package": "name"
