@@ -16,7 +16,7 @@
   },
   {
     "package": "cvap",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "name"
