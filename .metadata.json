@@ -12,7 +12,8 @@
     "oncran": true
   },
   {
-    "package": "ppmf"
+    "package": "ppmf",
+    "oncran": false
   },
   {
     "package": "cvap",
