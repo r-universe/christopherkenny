@@ -20,7 +20,8 @@
     "oncran": true
   },
   {
-    "package": "name"
+    "package": "name",
+    "oncran": true
   },
   {
     "package": "acronames"
