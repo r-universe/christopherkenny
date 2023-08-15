@@ -2,27 +2,27 @@
 	path = .registry
 	url = https://github.com/christopherkenny/universe
 	branch = HEAD
-[submodule "geomander"]
-	path = geomander
-	url = https://github.com/christopherkenny/geomander
-[submodule "censable"]
-	path = censable
-	url = https://github.com/christopherkenny/censable
-[submodule "divseg"]
-	path = divseg
-	url = https://github.com/christopherkenny/divseg
-[submodule "ppmf"]
-	path = ppmf
-	url = https://github.com/christopherkenny/ppmf
-[submodule "cvap"]
-	path = cvap
-	url = https://github.com/christopherkenny/cvap
-[submodule "name"]
-	path = name
-	url = https://github.com/christopherkenny/name
 [submodule "acronames"]
 	path = acronames
 	url = https://github.com/christopherkenny/acronames
+[submodule "censable"]
+	path = censable
+	url = https://github.com/christopherkenny/censable
+[submodule "cvap"]
+	path = cvap
+	url = https://github.com/christopherkenny/cvap
+[submodule "divseg"]
+	path = divseg
+	url = https://github.com/christopherkenny/divseg
+[submodule "geomander"]
+	path = geomander
+	url = https://github.com/christopherkenny/geomander
+[submodule "name"]
+	path = name
+	url = https://github.com/christopherkenny/name
+[submodule "ppmf"]
+	path = ppmf
+	url = https://github.com/christopherkenny/ppmf
 [submodule "styler"]
 	path = styler
 	url = https://github.com/christopherkenny/styler
