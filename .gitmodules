@@ -2,27 +2,96 @@
 	path = .registry
 	url = https://github.com/christopherkenny/universe
 	branch = HEAD
+[submodule "PL94170"]
+	path = PL94170
+	url = https://github.com/corymccartan/PL94170
 [submodule "acronames"]
 	path = acronames
 	url = https://github.com/christopherkenny/acronames
+[submodule "alarmdata"]
+	path = alarmdata
+	url = https://github.com/alarm-redist/alarmdata
+[submodule "apportion"]
+	path = apportion
+	url = https://github.com/christopherkenny/apportion
+[submodule "bskyr"]
+	path = bskyr
+	url = https://github.com/christopherkenny/bskyr
 [submodule "censable"]
 	path = censable
 	url = https://github.com/christopherkenny/censable
+[submodule "clash"]
+	path = clash
+	url = https://github.com/christopherkenny/clash
+[submodule "congress"]
+	path = congress
+	url = https://github.com/christopherkenny/congress
+[submodule "crayons"]
+	path = crayons
+	url = https://github.com/christopherkenny/crayons
 [submodule "cvap"]
 	path = cvap
 	url = https://github.com/christopherkenny/cvap
 [submodule "divseg"]
 	path = divseg
 	url = https://github.com/christopherkenny/divseg
+[submodule "dots"]
+	path = dots
+	url = https://github.com/christopherkenny/dots
+[submodule "ei"]
+	path = ei
+	url = https://github.com/iqss-research/eir
+[submodule "feltr"]
+	path = feltr
+	url = https://github.com/christopherkenny/feltr
 [submodule "geomander"]
 	path = geomander
 	url = https://github.com/christopherkenny/geomander
+[submodule "ggredist"]
+	path = ggredist
+	url = https://github.com/alarm-redist/ggredist
+[submodule "gptzeror"]
+	path = gptzeror
+	url = https://github.com/christopherkenny/gptzeror
+[submodule "jot"]
+	path = jot
+	url = https://github.com/christopherkenny/jot
+[submodule "luigg"]
+	path = luigg
+	url = https://github.com/christopherkenny/luigg
 [submodule "name"]
 	path = name
 	url = https://github.com/christopherkenny/name
+[submodule "parrot"]
+	path = parrot
+	url = https://github.com/christopherkenny/parrot
+[submodule "planscorer"]
+	path = planscorer
+	url = https://github.com/christopherkenny/planscorer
 [submodule "ppmf"]
 	path = ppmf
 	url = https://github.com/christopherkenny/ppmf
-[submodule "styler"]
-	path = styler
-	url = https://github.com/christopherkenny/styler
+[submodule "redist"]
+	path = redist
+	url = https://github.com/alarm-redist/redist
+[submodule "redistio"]
+	path = redistio
+	url = https://github.com/christopherkenny/redistio
+[submodule "redistmetrics"]
+	path = redistmetrics
+	url = https://github.com/alarm-redist/redistmetrics
+[submodule "redistverse"]
+	path = redistverse
+	url = https://github.com/alarm-redist/redistverse
+[submodule "royale"]
+	path = royale
+	url = https://github.com/christopherkenny/royale
+[submodule "styler.quote"]
+	path = styler.quote
+	url = https://github.com/christopherkenny/styler.quote
+[submodule "tinytiger"]
+	path = tinytiger
+	url = https://github.com/alarm-redist/tinytiger
+[submodule "vf"]
+	path = vf
+	url = https://github.com/christopherkenny/vf
