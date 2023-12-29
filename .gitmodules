@@ -40,7 +40,7 @@
 	url = https://github.com/christopherkenny/dots
 [submodule "ei"]
 	path = ei
-	url = https://github.com/iqss-research/eir
+	url = https://github.com/iqss-research/ei
 [submodule "feltr"]
 	path = feltr
 	url = https://github.com/christopherkenny/feltr
