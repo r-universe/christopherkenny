@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/christopherkenny/universe
 	branch = HEAD
-[submodule "PL94170"]
-	path = PL94170
-	url = https://github.com/corymccartan/PL94170
+[submodule "PL94171"]
+	path = PL94171
+	url = https://github.com/corymccartan/PL94171
 [submodule "acronames"]
 	path = acronames
 	url = https://github.com/christopherkenny/acronames
