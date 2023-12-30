@@ -5,6 +5,9 @@
 [submodule "PL94171"]
 	path = PL94171
 	url = https://github.com/corymccartan/PL94171
+[submodule "ThemePark"]
+	path = ThemePark
+	url = https://github.com/MatthewBJane/ThemePark
 [submodule "acronames"]
 	path = acronames
 	url = https://github.com/christopherkenny/acronames
