@@ -65,6 +65,9 @@
 [submodule "name"]
 	path = name
 	url = https://github.com/christopherkenny/name
+[submodule "palette"]
+	path = palette
+	url = https://github.com/christopherkenny/palette
 [submodule "parrot"]
 	path = parrot
 	url = https://github.com/christopherkenny/parrot
