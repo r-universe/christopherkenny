@@ -17,6 +17,9 @@
 [submodule "apportion"]
 	path = apportion
 	url = https://github.com/christopherkenny/apportion
+[submodule "baf"]
+	path = baf
+	url = https://github.com/christopherkenny/baf
 [submodule "bskyr"]
 	path = bskyr
 	url = https://github.com/christopherkenny/bskyr
