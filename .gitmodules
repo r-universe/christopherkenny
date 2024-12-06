@@ -68,6 +68,9 @@
 [submodule "name"]
 	path = name
 	url = https://github.com/christopherkenny/name
+[submodule "opengraph"]
+	path = opengraph
+	url = https://github.com/christopherkenny/opengraph
 [submodule "palette"]
 	path = palette
 	url = https://github.com/christopherkenny/palette
