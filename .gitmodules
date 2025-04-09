@@ -50,6 +50,9 @@
 [submodule "feltr"]
 	path = feltr
 	url = https://github.com/christopherkenny/feltr
+[submodule "flexoki"]
+	path = flexoki
+	url = https://github.com/christopherkenny/flexoki
 [submodule "geomander"]
 	path = geomander
 	url = https://github.com/christopherkenny/geomander
