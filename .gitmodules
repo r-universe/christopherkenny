@@ -68,6 +68,9 @@
 [submodule "luigg"]
 	path = luigg
 	url = https://github.com/christopherkenny/luigg
+[submodule "manifesto"]
+	path = manifesto
+	url = https://github.com/christopherkenny/manifesto
 [submodule "name"]
 	path = name
 	url = https://github.com/christopherkenny/name
