@@ -59,6 +59,9 @@
 [submodule "ggredist"]
 	path = ggredist
 	url = https://github.com/alarm-redist/ggredist
+[submodule "ggtiger"]
+	path = ggtiger
+	url = https://github.com/christopherkenny/ggtiger
 [submodule "gptzeror"]
 	path = gptzeror
 	url = https://github.com/christopherkenny/gptzeror
