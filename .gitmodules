@@ -11,6 +11,9 @@
 [submodule "acronames"]
 	path = acronames
 	url = https://github.com/christopherkenny/acronames
+[submodule "adj"]
+	path = adj
+	url = https://github.com/alarm-redist/adj
 [submodule "alarmdata"]
 	path = alarmdata
 	url = https://github.com/alarm-redist/alarmdata
@@ -68,6 +71,9 @@
 [submodule "jot"]
 	path = jot
 	url = https://github.com/christopherkenny/jot
+[submodule "lobby"]
+	path = lobby
+	url = https://github.com/christopherkenny/lobby
 [submodule "luigg"]
 	path = luigg
 	url = https://github.com/christopherkenny/luigg
@@ -92,6 +98,9 @@
 [submodule "ppmf"]
 	path = ppmf
 	url = https://github.com/christopherkenny/ppmf
+[submodule "pr"]
+	path = pr
+	url = https://github.com/christopherkenny/pr
 [submodule "redist"]
 	path = redist
 	url = https://github.com/alarm-redist/redist
