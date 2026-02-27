@@ -68,6 +68,9 @@
 [submodule "gptzeror"]
 	path = gptzeror
 	url = https://github.com/christopherkenny/gptzeror
+[submodule "ha"]
+	path = ha
+	url = https://github.com/christopherkenny/ha
 [submodule "jot"]
 	path = jot
 	url = https://github.com/christopherkenny/jot
@@ -113,6 +116,12 @@
 [submodule "redistverse"]
 	path = redistverse
 	url = https://github.com/alarm-redist/redistverse
+[submodule "rict"]
+	path = rict
+	url = https://github.com/christopherkenny/rict
+[submodule "riotr"]
+	path = riotr
+	url = https://github.com/christopherkenny/riotr
 [submodule "royale"]
 	path = royale
 	url = https://github.com/christopherkenny/royale
