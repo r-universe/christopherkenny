@@ -134,3 +134,6 @@
 [submodule "vf"]
 	path = vf
 	url = https://github.com/christopherkenny/vf
+[submodule "wf"]
+	path = wf
+	url = https://github.com/christopherkenny/wf
