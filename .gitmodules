@@ -35,6 +35,9 @@
 [submodule "congress"]
 	path = congress
 	url = https://github.com/christopherkenny/congress
+[submodule "crann"]
+	path = crann
+	url = https://github.com/christopherkenny/crann
 [submodule "crayons"]
 	path = crayons
 	url = https://github.com/christopherkenny/crayons
