@@ -53,6 +53,9 @@
 [submodule "ei"]
 	path = ei
 	url = https://github.com/iqss-research/ei
+[submodule "enum"]
+	path = enum
+	url = https://github.com/christopherkenny/enum
 [submodule "feltr"]
 	path = feltr
 	url = https://github.com/christopherkenny/feltr
