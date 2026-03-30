@@ -74,6 +74,9 @@
 [submodule "gptzeror"]
 	path = gptzeror
 	url = https://github.com/christopherkenny/gptzeror
+[submodule "gtscales"]
+	path = gtscales
+	url = https://github.com/christopherkenny/gtscales
 [submodule "ha"]
 	path = ha
 	url = https://github.com/christopherkenny/ha
