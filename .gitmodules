@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/christopherkenny/christopherkenny.r-universe.dev
 	branch = HEAD
+[submodule "BCP47"]
+	path = BCP47
+	url = https://github.com/christopherkenny/BCP47
 [submodule "PL94171"]
 	path = PL94171
 	url = https://github.com/corymccartan/PL94171
@@ -80,6 +83,9 @@
 [submodule "ha"]
 	path = ha
 	url = https://github.com/christopherkenny/ha
+[submodule "ipf"]
+	path = ipf
+	url = https://github.com/christopherkenny/ipf
 [submodule "jot"]
 	path = jot
 	url = https://github.com/christopherkenny/jot
@@ -125,6 +131,9 @@
 [submodule "redistverse"]
 	path = redistverse
 	url = https://github.com/alarm-redist/redistverse
+[submodule "reon"]
+	path = reon
+	url = https://github.com/christopherkenny/reon
 [submodule "rict"]
 	path = rict
 	url = https://github.com/christopherkenny/rict
@@ -134,9 +143,15 @@
 [submodule "royale"]
 	path = royale
 	url = https://github.com/christopherkenny/royale
+[submodule "snippet"]
+	path = snippet
+	url = https://github.com/christopherkenny/snippet
 [submodule "styler.quote"]
 	path = styler.quote
 	url = https://github.com/christopherkenny/styler.quote
+[submodule "tinycensus"]
+	path = tinycensus
+	url = https://github.com/christopherkenny/tinycensus
 [submodule "tinytiger"]
 	path = tinytiger
 	url = https://github.com/alarm-redist/tinytiger
