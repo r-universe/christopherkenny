@@ -86,6 +86,9 @@
 [submodule "ipf"]
 	path = ipf
 	url = https://github.com/christopherkenny/ipf
+[submodule "irelink"]
+	path = irelink
+	url = https://github.com/christopherkenny/irelink
 [submodule "jot"]
 	path = jot
 	url = https://github.com/christopherkenny/jot
